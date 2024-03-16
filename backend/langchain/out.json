@@ -1,0 +1,176 @@
+[
+  {
+    "description": "Smoothie de espinacas, pl\u00e1tano y almendras",
+    "ingredients": [
+      {
+        "name": "Espinacas",
+        "items": [
+          {
+            "product": "Espinacas Vegecampo bolsa 300 g",
+            "market": "Dia",
+            "price": 1.29,
+            "url": "https://www.dia.es/verduras/verduras-y-ensaladas-preparadas/p/105301"
+          },
+          {
+            "product": "Espinacas Crema Carrefour 1 kg.",
+            "market": "Carrefour",
+            "price": 4.65,
+            "url": "https://www.carrefour.es/supermercado/espinacas-crema-carrefour-1-kg/R-prod390896/p"
+          },
+          {
+            "product": "Espinaca baby",
+            "market": "Mercadona",
+            "price": 1.11,
+            "url": "https://tienda.mercadona.es/product/69984/espinaca-baby-paquete",
+            "img_url": "https://prod-mercadona.imgix.net/images/035d190b46ffb4c1d984c4d529aed916.jpg?fit=crop&h=300&w=300"
+          }
+        ]
+      },
+      {
+        "name": "Pl\u00e1tano",
+        "items": [
+          {
+            "product": "Pl\u00e1tano macho para fre\u00edr granel 1 Kg aprox.",
+            "market": "Dia",
+            "price": 2.89,
+            "url": "https://www.dia.es/frutas/platanos/p/53584"
+          },
+          {
+            "product": "Bolsita de pl\u00e1tano ecol\u00f3gico Be Plus 90 g.",
+            "market": "Carrefour",
+            "price": 0.95,
+            "url": "https://www.carrefour.es/supermercado/bolsita-de-platano-ecologico-be-plus-90-g/R-VC4AECOMM-644968/p"
+          },
+          {
+            "product": "Banana",
+            "market": "Mercadona",
+            "price": 0.26,
+            "url": "https://tienda.mercadona.es/product/3824/banana-pieza",
+            "img_url": "https://prod-mercadona.imgix.net/images/69edef3541bbf3f4b7173c9d617a5698.jpg?fit=crop&h=300&w=300"
+          }
+        ]
+      },
+      {
+        "name": "Almendras",
+        "items": [
+          {
+            "product": "Aceite de oliva 1\u00ba Hacendado",
+            "market": "Mercadona",
+            "price": 9.25,
+            "url": "https://tienda.mercadona.es/product/4640/aceite-oliva-1o-hacendado-botella",
+            "img_url": "https://prod-mercadona.imgix.net/images/b57ae00beedb23ec86686fa3651fd448.jpg?fit=crop&h=300&w=300"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Ensalada de garbanzos con vegetales frescos y aderezo de lim\u00f3n",
+    "ingredients": [
+      {
+        "name": "Garbanzos cocidos",
+        "items": [
+          {
+            "product": "Garbanzos cocidos extra Vegecampo frasco 210 g",
+            "market": "Dia",
+            "price": 0.7,
+            "url": "https://www.dia.es/arroz-pastas-y-legumbres/garbanzos/p/284017"
+          },
+          {
+            "product": "Garbanzo cocido categor\u00eda extra Luengo 400 g.",
+            "market": "Carrefour",
+            "price": 1.3,
+            "url": "https://www.carrefour.es/supermercado/garbanzo-cocido-categoria-extra-luengo-400-g/R-546305864/p"
+          },
+          {
+            "product": "Garbanzo cocido Hacendado",
+            "market": "Mercadona",
+            "price": 0.65,
+            "url": "https://tienda.mercadona.es/product/26039/garbanzo-cocido-hacendado-tarro",
+            "img_url": "https://prod-mercadona.imgix.net/images/d83f87f3a99906695d95f67fc570a10a.jpg?fit=crop&h=300&w=300"
+          }
+        ]
+      },
+      {
+        "name": "Vegetales frescos",
+        "items": [
+          {
+            "product": "Aceite de oliva 1\u00ba Hacendado",
+            "market": "Mercadona",
+            "price": 9.25,
+            "url": "https://tienda.mercadona.es/product/4640/aceite-oliva-1o-hacendado-botella",
+            "img_url": "https://prod-mercadona.imgix.net/images/b57ae00beedb23ec86686fa3651fd448.jpg?fit=crop&h=300&w=300"
+          }
+        ]
+      },
+      {
+        "name": "Lim\u00f3n",
+        "items": [
+          {
+            "product": "Lim\u00f3n granel 1 Kg aprox.",
+            "market": "Dia",
+            "price": 1.89,
+            "url": "https://www.dia.es/frutas/limones-y-pomelos/p/79"
+          },
+          {
+            "product": "Carrefour t\u00e9 de lim\u00f3n botella 1,5 l.",
+            "market": "Carrefour",
+            "price": 0.85,
+            "url": "https://www.carrefour.es/supermercado/carrefour-te-de-limon-botella-15-l/R-522714739/p"
+          },
+          {
+            "product": "Lim\u00f3n, pieza",
+            "market": "Mercadona",
+            "price": 0.39,
+            "url": "https://tienda.mercadona.es/product/3210/limon-pieza",
+            "img_url": "https://prod-mercadona.imgix.net/images/c5c512407bc265ae901a3b8efc24ac23.jpg?fit=crop&h=300&w=300"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Berenjenas asadas con tomate y albahaca",
+    "ingredients": [
+      {
+        "name": "Berenjenas",
+        "items": [
+          {
+            "product": "Berenjena ali\u00f1o suave Antonio La Berenjena sin gluten 350 g.",
+            "market": "Carrefour",
+            "price": 2.89,
+            "url": "https://www.carrefour.es/supermercado/berenjena-alino-suave-antonio-la-berenjena-sin-gluten-350-g/R-867800306/p"
+          },
+          {
+            "product": "Berenjena",
+            "market": "Mercadona",
+            "price": 0.64,
+            "url": "https://tienda.mercadona.es/product/69326/berenjena-pieza",
+            "img_url": "https://prod-mercadona.imgix.net/images/cbd784174d4dfee4fedee9f32d3ad0ab.jpg?fit=crop&h=300&w=300"
+          }
+        ]
+      },
+      {
+        "name": "Tomate",
+        "items": [
+          {
+            "product": "Tomate frito Orlando brik 350 g",
+            "market": "Dia",
+            "price": 1.0,
+            "url": "https://www.dia.es/aceites-salsas-y-especias/tomate/p/114545"
+          },
+          {
+            "product": "Tomate frito con aceite de oliva Solis pack de 2 tarros de 460 g.",
+            "market": "Carrefour",
+            "price": 3.89,
+            "url": "https://www.carrefour.es/supermercado/tomate-frito-con-aceite-de-oliva-solis-pack-de-2-tarros-de-460-g/R-prod250029/p"
+          }
+        ]
+      },
+      {
+        "name": "Albahaca",
+        "items": []
+      }
+    ]
+  }
+]

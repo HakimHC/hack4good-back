@@ -1,0 +1,40 @@
+version: "3"
+
+services:
+  api:
+    build: ./backend/api
+    container_name: backend-api
+    ports:
+      - "8080:8080"
+
+    volumes:
+      - "./backend/api:/app"
+    networks:
+      - internal
+    environment:
+      - PYTHONUNBUFFERED=1
+  front:
+    build: ./frontend
+    container_name: frontend
+    ports:
+      - "3000:3000"
+
+    networks:
+      - internal
+
+  langchain:
+    build: ./backend/langchain
+    container_name: backend-langchain
+    ports:
+      - "8081:8080"
+    env_file:
+      - ./backend/langchain/.env
+    volumes:
+      - "./backend/langchain:/app"
+    networks:
+      - internal
+
+
+
+networks:
+  internal:
